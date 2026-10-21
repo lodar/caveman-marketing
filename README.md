@@ -18,51 +18,14 @@ npx skills add lodar/caveman-marketing
 
 Then tell your agent: **caveman my website**
 
+<p align="center"><a href="assets/apple.png"><img src="assets/preview/apple.jpg" alt="apple.com before and after" width="300"></a><br>
+<sub>The real apple.com on the left, the skill's version on the right.</sub></p>
+
 ## Use it for
 
 Ads. Landing pages. Signups. Onboarding. App screens.
 
 Anything people glance at for 3 seconds, then leave.
-
-## Tested on famous homepages
-
-AI agents ran this skill on real pages, on a phone. The real screenshot is on the left and the
-skill's version is on the right. The first three came from fresh agents that had only this skill.
-
-<p align="center"><img src="assets/apple.png" alt="apple.com before and after" width="480"></p>
-
-<p align="center"><img src="assets/hubspot.png" alt="hubspot.com before and after" width="480"></p>
-
-<p align="center"><img src="assets/atlassian.png" alt="atlassian.com before and after" width="480"></p>
-
-<p align="center"><img src="assets/craigslist.png" alt="craigslist.org before and after" width="480"></p>
-
-<p align="center"><img src="assets/ryanair.png" alt="ryanair.com before and after" width="480"></p>
-
-## On ads too
-
-Real Facebook ads from Meta's Ad Library, cut with the same rules. Same photo, same button.
-
-<p align="center"><img src="assets/temu-ad.png" alt="a Temu Facebook ad before and after" width="480"></p>
-
-<p align="center"><img src="assets/doordash-ad.png" alt="a DoorDash Facebook ad before and after" width="480"></p>
-
-## On desktop too
-
-The same rules on a 1440×900 screen. The picture takes the left half, and the words and the one button
-sit on the right.
-
-<p align="center"><img src="assets/hubspot-desktop.png" alt="hubspot.com on desktop, before and after" width="480"></p>
-
-<p align="center"><img src="assets/microsoft-desktop.jpg" alt="microsoft.com on desktop, before and after" width="480"></p>
-
-<p align="center"><img src="assets/arngren-desktop.jpg" alt="arngren.net on desktop, before and after" width="480"></p>
-
-## On signups too
-
-One thing per screen, with a step bar. Salesforce's trial form becomes an email, then a password, then your first deal on the board.
-
-<p align="center"><img src="assets/salesforce-signup.png" alt="the Salesforce trial signup before and after" width="480"></p>
 
 ## The test
 
@@ -97,6 +60,36 @@ How the skill runs is in [SKILL.md](SKILL.md), and every example is in [examples
   stranger on your landing page.
 - **Progressive disclosure.** Show only what this step needs, and reveal the rest later. That's
   why a signup asks one thing per screen.
+
+## More examples
+
+AI agents ran this skill on real pages. The real screen is on the left of each, the skill's version on the right.
+Tap one to open it full size.
+
+**Homepages on a phone.** Apple, HubSpot and Atlassian came from fresh agents that had only this skill.
+
+<p align="center">
+<a href="assets/hubspot.png"><img src="assets/preview/hubspot.jpg" alt="hubspot.com before and after" width="170"></a>
+<a href="assets/atlassian.png"><img src="assets/preview/atlassian.jpg" alt="atlassian.com before and after" width="170"></a>
+<a href="assets/craigslist.png"><img src="assets/preview/craigslist.jpg" alt="craigslist.org before and after" width="170"></a>
+<a href="assets/ryanair.png"><img src="assets/preview/ryanair.jpg" alt="ryanair.com before and after" width="170"></a>
+</p>
+
+**Facebook ads and a signup.** Real ads from Meta's Ad Library, same photo and same button. Salesforce's trial form becomes one thing per screen.
+
+<p align="center">
+<a href="assets/temu-ad.png"><img src="assets/preview/temu-ad.jpg" alt="a Temu Facebook ad before and after" width="170"></a>
+<a href="assets/doordash-ad.png"><img src="assets/preview/doordash-ad.jpg" alt="a DoorDash Facebook ad before and after" width="170"></a>
+<a href="assets/salesforce-signup.png"><img src="assets/preview/salesforce-signup.jpg" alt="the Salesforce trial signup before and after" width="170"></a>
+</p>
+
+**Desktop, 1440×900.** The picture takes the left half; the words and the one button sit on the right.
+
+<p align="center">
+<a href="assets/hubspot-desktop.png"><img src="assets/preview/hubspot-desktop.jpg" alt="hubspot.com on desktop, before and after" width="170"></a>
+<a href="assets/microsoft-desktop.jpg"><img src="assets/preview/microsoft-desktop.jpg" alt="microsoft.com on desktop, before and after" width="170"></a>
+<a href="assets/arngren-desktop.jpg"><img src="assets/preview/arngren-desktop.jpg" alt="arngren.net on desktop, before and after" width="170"></a>
+</p>
 
 <sub>The right-hand screens are mocks, not the companies' pages. Each keeps the company's own
 claims. Pictures are the company's own photos, or drawings where the page had none. The ads are
