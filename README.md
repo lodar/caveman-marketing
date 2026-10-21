@@ -20,14 +20,14 @@ Then tell your agent: **caveman my website**
 
 ## Use it for
 
-Website redesigns. Ad ideas. Landing pages. Signups.
+Ads. Landing pages. Signups. Onboarding. App screens.
 
 Anything people glance at for 3 seconds, then leave.
 
 ## Tested on famous homepages
 
-Three fresh agents each got only this skill and one real homepage, on a phone, on 2026-10-20.
-The real screenshot is on the left and the skill's version is on the right.
+AI agents ran this skill on real pages, on a phone. The real screenshot is on the left and the
+skill's version is on the right. The first three came from fresh agents that had only this skill.
 
 <p align="center"><img src="assets/apple.png" alt="apple.com before and after" width="480"></p>
 
@@ -35,12 +35,34 @@ The real screenshot is on the left and the skill's version is on the right.
 
 <p align="center"><img src="assets/atlassian.png" alt="atlassian.com before and after" width="480"></p>
 
+<p align="center"><img src="assets/craigslist.png" alt="craigslist.org before and after" width="480"></p>
+
+<p align="center"><img src="assets/ryanair.png" alt="ryanair.com before and after" width="480"></p>
+
+## On ads too
+
+Real Facebook ads from Meta's Ad Library, cut with the same rules. Same photo, same button.
+
+<p align="center"><img src="assets/temu-ad.png" alt="a Temu Facebook ad before and after" width="480"></p>
+
+<p align="center"><img src="assets/doordash-ad.png" alt="a DoorDash Facebook ad before and after" width="480"></p>
+
 ## On desktop too
 
 The same rules on a 1440×900 screen. The picture takes the left half, and the words and the one button
 sit on the right.
 
 <p align="center"><img src="assets/hubspot-desktop.png" alt="hubspot.com on desktop, before and after" width="480"></p>
+
+<p align="center"><img src="assets/microsoft-desktop.jpg" alt="microsoft.com on desktop, before and after" width="480"></p>
+
+<p align="center"><img src="assets/arngren-desktop.jpg" alt="arngren.net on desktop, before and after" width="480"></p>
+
+## On signups too
+
+One thing per screen, with a step bar. Salesforce's trial form becomes an email, then a password, then your first deal on the board.
+
+<p align="center"><img src="assets/salesforce-signup.png" alt="the Salesforce trial signup before and after" width="480"></p>
 
 ## The test
 
@@ -77,7 +99,7 @@ How the skill runs is in [SKILL.md](SKILL.md), and every example is in [examples
   why a signup asks one thing per screen.
 
 <sub>The right-hand screens are mocks, not the companies' pages. Each keeps the company's own
-claims. Apple's picture is Apple's own photo; HubSpot's and Atlassian's are drawings. Not
-affiliated with any company shown.</sub>
+claims. Pictures are the company's own photos, or drawings where the page had none. The ads are
+real ads from Meta's Ad Library. Not affiliated with any company shown.</sub>
 
 Made with [5dive](https://5dive.ai)'s AI agents.

@@ -1,0 +1,14 @@
+# ryanair.com / phone, as it loads (first 390x844 view, after cookie consent)
+picture: a blue header with the RYANAIR logo, then a carousel of sale banners with their own small print, then partner cards with photos
+All your travel needs
+[Start search]
+(My bookings) [myRyanair Portal]
+Our Partners and Extras
+Hotels
+High quality rooms at affordable prices.
+Fast track
+Skip long security airport queues on your next trip.
+Useful information
+Bags
+Bag Policy
+Everything you need to know about Ryanair Bags

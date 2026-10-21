@@ -1,0 +1,8 @@
+# craigslist.org on a phone (New York), as it is
+picture: none, only a faint vertical "craigslist" watermark behind the job list
+location new york
+(post) (acct)
+{search craigslist}
+autos community for sale gigs housing jobs services
+ALL JOBS admin/office business customer service education engineering etcetera finance food/bev/hosp general labor government healthcare human resource legal manufacturing marketing media nonprofit
+(© 2026 craigslist help safety privacy terms forums)

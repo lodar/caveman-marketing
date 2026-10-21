@@ -1,0 +1,36 @@
+# signup / first view on a phone (390×844)
+picture: none, only the Salesforce logo
+Start your free sales trial.
+No credit card required, no software to install.
+Sign up now to start your free trial.
+Complete the form to start your free trial. Our team will be in touch to help you make the most of your trial.
+First name
+{}
+Last name
+{}
+Job title
+{}
+Company
+{}
+Company size
+{Select company size}
+Country/region
+{Germany}
+Email
+[📞]
+---
+# signup / rest of the same page (scrolled)
+picture: none
+{}
+Phone
+{+49}
+(I agree to the Main Services Agreement and the Slack User Terms of Service.)
+(Yes, I would like to receive marketing communications regarding Salesforce products, services, and events. I can unsubscribe at any time.)
+(Your free trial may be provisioned on or migrated to Hyperforce, Salesforce's public cloud infrastructure.)
+(We value your privacy. To learn more, visit our Privacy Statement.)
+[Start my free trial]
+(Worldwide)
+(Legal) (Terms of Service) (Privacy Information)
+(Responsible Disclosure) (Trust) (Contact)
+(Cookie Preferences) (Your Privacy Choices)
+(© Copyright 2026 Salesforce, Inc. All rights reserved. Various trademarks held by their respective owners. Salesforce, Inc. Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States)

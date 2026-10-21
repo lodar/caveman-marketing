@@ -1,0 +1,8 @@
+# craigslist.org on a phone, caveman version
+(craigslist)
+picture: one listing card drawn in craigslist's plain style: a big couch, the purple link "couch" and the price "$40"
+Local classified ads in New York.
+{search craigslist}
+👇
+[Search]
+(Post an ad)

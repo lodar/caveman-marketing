@@ -1,0 +1,32 @@
+# 1 · signup: email
+picture: the Salesforce logo, then a sales board in three columns; one deal card is dragged to the next column, the last column's card is stamped ✓ with 💰
+Track every sales deal.
+① Email › ② Password › ③ Deal
+{you@company.com}
+👇
+[Start free trial]
+(You accept our Terms.)
+---
+# 2 · password (same visit, no inbox trip)
+picture: the same sales board, faded, behind a big 🔓
+Pick a password.
+① Email ✓ › ② Password › ③ Deal
+{Password}
+👇
+[Open my board]
+(No card. Nothing to install.)
+---
+# 3 · first deal
+picture: the empty board, one dashed card slot glowing in the first column
+Who are you selling to?
+① Email ✓ › ② Password ✓ › ③ Deal
+{Company name}
+👇
+[Add to my board]
+---
+# 4 · first win: your deal is on the board
+picture: the board with the visitor's own card "Acme" dropping into the first column, a big green ✓
+Your first deal is tracked.
+① ✓ › ② ✓ › ③ ✓
+👇
+[Add the next deal]
