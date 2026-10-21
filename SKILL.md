@@ -5,8 +5,9 @@ description: >-
   stranger gets it in 3 seconds: one picture, at most 15 words, one button.
   Use when a page, ad or funnel is wordy, unclear, gets views but no clicks,
   or has no obvious next click, for website redesign, landing page or ad ideas,
-  and whenever someone asks to "caveman" something. Not for long persuasive
-  copy written from scratch.
+  when someone asks to "simplify this page", "make it simpler" or "make it
+  shorter", and whenever someone asks to "caveman" something. Not for long
+  persuasive copy written from scratch.
 ---
 
 # Caveman marketing
