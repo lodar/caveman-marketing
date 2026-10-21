@@ -69,26 +69,26 @@ Tap one to open it full size.
 **Homepages on a phone.** Apple, HubSpot and Atlassian came from fresh agents that had only this skill.
 
 <p align="center">
-<a href="assets/hubspot.png"><img src="assets/preview/hubspot.jpg" alt="hubspot.com before and after" width="170"></a>
-<a href="assets/atlassian.png"><img src="assets/preview/atlassian.jpg" alt="atlassian.com before and after" width="170"></a>
-<a href="assets/craigslist.png"><img src="assets/preview/craigslist.jpg" alt="craigslist.org before and after" width="170"></a>
-<a href="assets/ryanair.png"><img src="assets/preview/ryanair.jpg" alt="ryanair.com before and after" width="170"></a>
+<a href="assets/hubspot.png"><img src="assets/preview/hubspot.jpg" alt="hubspot.com before and after" width="150"></a>
+<a href="assets/atlassian.png"><img src="assets/preview/atlassian.jpg" alt="atlassian.com before and after" width="150"></a>
+<a href="assets/craigslist.png"><img src="assets/preview/craigslist.jpg" alt="craigslist.org before and after" width="150"></a>
+<a href="assets/ryanair.png"><img src="assets/preview/ryanair.jpg" alt="ryanair.com before and after" width="150"></a>
 </p>
 
 **Facebook ads and a signup.** Real ads from Meta's Ad Library, same photo and same button. Salesforce's trial form becomes one thing per screen.
 
 <p align="center">
-<a href="assets/temu-ad.png"><img src="assets/preview/temu-ad.jpg" alt="a Temu Facebook ad before and after" width="170"></a>
-<a href="assets/doordash-ad.png"><img src="assets/preview/doordash-ad.jpg" alt="a DoorDash Facebook ad before and after" width="170"></a>
-<a href="assets/salesforce-signup.png"><img src="assets/preview/salesforce-signup.jpg" alt="the Salesforce trial signup before and after" width="170"></a>
+<a href="assets/temu-ad.png"><img src="assets/preview/temu-ad.jpg" alt="a Temu Facebook ad before and after" width="150"></a>
+<a href="assets/doordash-ad.png"><img src="assets/preview/doordash-ad.jpg" alt="a DoorDash Facebook ad before and after" width="150"></a>
+<a href="assets/salesforce-signup.png"><img src="assets/preview/salesforce-signup.jpg" alt="the Salesforce trial signup before and after" width="150"></a>
 </p>
 
 **Desktop, 1440×900.** The picture takes the left half; the words and the one button sit on the right.
 
 <p align="center">
-<a href="assets/hubspot-desktop.png"><img src="assets/preview/hubspot-desktop.jpg" alt="hubspot.com on desktop, before and after" width="170"></a>
-<a href="assets/microsoft-desktop.jpg"><img src="assets/preview/microsoft-desktop.jpg" alt="microsoft.com on desktop, before and after" width="170"></a>
-<a href="assets/arngren-desktop.jpg"><img src="assets/preview/arngren-desktop.jpg" alt="arngren.net on desktop, before and after" width="170"></a>
+<a href="assets/hubspot-desktop.png"><img src="assets/preview/hubspot-desktop.jpg" alt="hubspot.com on desktop, before and after" width="150"></a>
+<a href="assets/microsoft-desktop.jpg"><img src="assets/preview/microsoft-desktop.jpg" alt="microsoft.com on desktop, before and after" width="150"></a>
+<a href="assets/arngren-desktop.jpg"><img src="assets/preview/arngren-desktop.jpg" alt="arngren.net on desktop, before and after" width="150"></a>
 </p>
 
 <sub>The right-hand screens are mocks, not the companies' pages. Each keeps the company's own
