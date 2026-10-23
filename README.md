@@ -16,6 +16,8 @@
 npx skills add lodar/caveman-marketing
 ```
 
+Works with Claude Code, Codex and Cursor: the command above installs it into each (tested with skills 1.7.4), or into any other agent `npx skills` supports.
+
 Then tell your agent: **caveman my website**
 
 <p align="center"><a href="assets/apple.png"><img src="assets/preview/apple.jpg" alt="apple.com before and after" width="300"></a><br>
